@@ -60,7 +60,7 @@ export default function Home() {
       groupPrice: 7.5,
       description_pt: "Praia urbana com fácil acesso, ideal para banhistas e famílias.",
       description_en: "Urban beach with easy access, ideal for swimmers and families.",
-      image: "/images/Praia%20de%20Faro.jpeg",
+      image: "/images/Praia%20de%20Faro.webp",
     },
     {
       name_pt: "Ilha Deserta",
@@ -69,7 +69,7 @@ export default function Home() {
       groupPrice: 10,
       description_pt: "Ilha selvagem e intocada, paraíso para quem procura isolamento.",
       description_en: "Wild and untouched island, paradise for those seeking isolation.",
-      image: "/images/Ilha%20Deserta.jpeg",
+      image: "/images/Ilha%20Deserta.webp",
     },
     {
       name_pt: "Ilha do Farol",
@@ -78,7 +78,7 @@ export default function Home() {
       groupPrice: 10,
       description_pt: "Famosa pelo farol histórico e vistas panorâmicas espetaculares.",
       description_en: "Famous for its historic lighthouse and spectacular panoramic views.",
-      image: "/images/Ilha%20do%20Farol.jpeg",
+      image: "/images/Ilha%20do%20Farol.webp",
     },
     {
       name_pt: "Ilha dos Hangares",
@@ -87,7 +87,7 @@ export default function Home() {
       groupPrice: 12.50,
       description_pt: "Ilha tranquila com história militar, ideal para exploração.",
       description_en: "Quiet island with military history, ideal for exploration.",
-      image: "/images/Ilha%20dos%20Hangares.jpeg",
+      image: "/images/Ilha%20dos%20Hangares.webp",
     },
     {
       name_pt: "Ilha da Culatra",
@@ -96,7 +96,7 @@ export default function Home() {
       groupPrice: 12.50,
       description_pt: "Ilha piscatória autêntica com aldeias coloridas e vida local.",
       description_en: "Authentic fishing island with colorful villages and local life.",
-      image: "/images/Ilha%20da%20Culatra.jpeg",
+      image: "/images/Ilha%20da%20Culatra.webp",
     },
   ];
 
@@ -201,7 +201,7 @@ export default function Home() {
         <div
           className="absolute inset-0 z-0 bg-cover bg-center"
           style={{
-            backgroundImage: `url('/images/Entrada.jpeg')`,
+            backgroundImage: `url('/images/Entrada.webp')`,
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-r from-black/60 via-black/45 to-transparent"></div>
